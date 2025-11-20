@@ -132,7 +132,7 @@ function App() {
               </h6>
             </div>
             <div className="card-body p-4">
-              <div className="input-group input-group-sm mb-4">
+              <div className="input-group input-group-sm mb-4" style={{ display: 'none' }}>
                 <span className="input-group-text bg-secondary text-white">
                   <i className="bi bi-shield-check me-1"></i>
                   MPC Contract
